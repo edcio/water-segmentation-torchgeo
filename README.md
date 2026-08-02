@@ -1,9 +1,6 @@
-# water-segmentation-torchgeo
-Water presence classification: from the existing tutorial from TorchGeo to geo reference and optimization attempt analysis
-
 # Water segmentation on Sentinel-2 with TorchGeo
 
-Segmentazione binaria acqua / non-acqua su immagini Sentinel-2, a partire dal
+Segmentazione per classificazione binaria acqua / non-acqua su immagini Sentinel-2, a partire dal
 dataset [Earth Surface Water](https://huggingface.co/datasets/cordmaur/earth_surface_water).
 
 Il punto di partenza è il [tutorial TorchGeo](https://docs.torchgeo.org/en/stable/tutorials/earth_surface_water.html),
