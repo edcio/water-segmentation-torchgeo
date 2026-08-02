@@ -21,7 +21,7 @@ e un confronto tra due configurazioni di input.
 | Accettabili | **11** | 8 |
 | Nessun pixel predetto | **0** | 3 |
 
-Dettagli e discussione in [`report/report.pdf`](report/water_segmentation_report.pdf).
+Dettagli e discussione in [`report/water_segmentation_report.pdf`](report/water_segmentation_report.pdf).
 
 ## Come eseguire
 
