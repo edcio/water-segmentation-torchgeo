@@ -1,0 +1,11 @@
+torchgeo>=0.9
+torch
+torchvision
+kornia
+rasterio
+geopandas
+pyproj
+matplotlib
+pandas
+numpy
+scikit-learn
